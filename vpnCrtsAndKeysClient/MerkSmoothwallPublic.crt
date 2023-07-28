@@ -1,0 +1,99 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=GB, ST=England, L=London, O=MerkSmoothwall, OU=MyMerkSmoothwall, CN=MerkSmoothwallUbuntu/name=EasyRSA/emailAddress=sarifluca.dev@gmail.com
+        Validity
+            Not Before: Aug 17 00:30:00 2019 GMT
+            Not After : Aug 14 00:30:00 2029 GMT
+        Subject: C=GB, ST=England, L=London, O=MerkSmoothwall, OU=MyMerkSmoothwall, CN=MerkSmoothwallPublic/name=EasyRSA/emailAddress=sarifluca.dev@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:ae:bf:c8:89:15:fa:24:d0:f0:51:f5:f8:78:5b:
+                    5d:eb:ea:25:c5:e7:51:1f:f9:36:64:e0:d9:40:4e:
+                    b4:01:c6:39:0e:15:b1:70:cc:cb:bb:9c:d5:8b:01:
+                    f6:20:4f:2c:c2:0e:67:34:fb:e0:5b:25:56:5f:2d:
+                    de:e6:4b:3d:1e:cb:82:f1:c4:35:5d:d1:79:89:85:
+                    78:fb:cf:77:b5:04:a4:d2:ff:66:4a:d7:5d:bf:0c:
+                    f1:a1:ed:24:17:ee:b0:d6:ef:71:f6:b9:05:98:ed:
+                    2e:86:8e:02:e7:8f:77:0a:f4:31:23:ae:30:52:74:
+                    5e:d9:63:d2:ce:ee:9f:6e:f8:77:c7:3d:5c:64:00:
+                    58:9b:b1:8e:16:f8:3c:eb:fd:f5:57:06:73:54:b5:
+                    1d:48:f1:04:4d:73:c9:e0:0b:6b:25:7f:33:08:aa:
+                    b5:d5:c8:9a:1d:59:fe:f9:63:d8:ec:cb:ed:24:5f:
+                    51:01:67:f5:3d:cb:bc:03:ea:da:f8:f5:d9:9f:19:
+                    33:5b:b1:59:20:a7:c6:6b:a4:d0:e4:c1:ce:63:fd:
+                    5c:cb:16:d3:5c:8f:c4:c3:6e:98:c5:3c:1e:07:1f:
+                    0f:c4:59:19:4c:e4:ee:70:9d:42:06:c7:7f:a3:90:
+                    21:0a:86:d2:1e:65:20:54:95:96:ba:e1:f3:d7:92:
+                    cd:f7
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                02:27:A7:A6:52:96:EA:61:9A:0B:D0:90:F1:13:E3:AE:55:9B:FF:94
+            X509v3 Authority Key Identifier: 
+                keyid:2E:6B:7A:04:F7:BD:65:BD:F0:2E:55:2A:F5:29:2F:11:B9:B9:8C:06
+                DirName:/C=GB/ST=England/L=London/O=MerkSmoothwall/OU=MyMerkSmoothwall/CN=MerkSmoothwallUbuntu/name=EasyRSA/emailAddress=sarifluca.dev@gmail.com
+                serial:7B:78:1E:AD:98:35:D9:F1:8B:8C:17:1A:AF:24:18:36:A0:B8:99:7C
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Subject Alternative Name: 
+                DNS:MerkSmoothwallPublic
+    Signature Algorithm: sha256WithRSAEncryption
+         3f:15:17:41:a1:f1:56:b6:05:b1:3e:f4:b2:77:69:c5:c7:62:
+         17:27:e2:42:f6:30:2f:03:df:1c:e6:70:14:e6:2b:19:60:73:
+         03:ed:e3:fe:77:9b:df:ae:6e:6c:b7:3f:a3:e8:84:30:80:77:
+         be:02:8f:8d:bc:57:e8:7e:82:c3:1d:06:90:9a:5e:75:d1:4d:
+         f3:8c:36:82:c4:e5:8e:c1:36:09:65:31:f9:d2:c4:8a:91:0c:
+         07:4f:9b:46:0e:59:f4:44:69:86:21:6f:6f:d5:8c:4a:a4:c3:
+         68:23:ae:58:20:20:9c:b0:50:3a:b7:90:54:f6:8b:09:e6:3e:
+         fd:be:11:28:da:c9:0c:2d:89:c8:2b:ef:f7:1b:43:24:f7:f8:
+         78:45:18:fe:31:19:90:2c:0d:38:45:61:d5:ac:f7:e1:ff:ea:
+         ef:6e:ed:4e:18:67:aa:69:ec:2d:54:4a:12:02:85:6e:a2:67:
+         38:90:82:aa:d0:7b:68:03:6c:99:f0:bb:62:56:85:e8:d9:76:
+         8e:0d:91:44:01:e1:ba:31:7b:15:33:b4:3b:8e:12:69:34:91:
+         a4:e6:53:35:b5:65:2e:8b:89:ec:43:60:30:15:e0:48:4f:26:
+         3a:4c:a7:fd:a6:97:47:58:9b:73:a3:e0:48:12:da:1e:16:60:
+         e2:14:19:53
+-----BEGIN CERTIFICATE-----
+MIIFmTCCBIGgAwIBAgIBAjANBgkqhkiG9w0BAQsFADCBvTELMAkGA1UEBhMCR0Ix
+EDAOBgNVBAgTB0VuZ2xhbmQxDzANBgNVBAcTBkxvbmRvbjEXMBUGA1UEChMOTWVy
+a1Ntb290aHdhbGwxGTAXBgNVBAsTEE15TWVya1Ntb290aHdhbGwxHTAbBgNVBAMT
+FE1lcmtTbW9vdGh3YWxsVWJ1bnR1MRAwDgYDVQQpEwdFYXN5UlNBMSYwJAYJKoZI
+hvcNAQkBFhdzYXJpZmx1Y2EuZGV2QGdtYWlsLmNvbTAeFw0xOTA4MTcwMDMwMDBa
+Fw0yOTA4MTQwMDMwMDBaMIG9MQswCQYDVQQGEwJHQjEQMA4GA1UECBMHRW5nbGFu
+ZDEPMA0GA1UEBxMGTG9uZG9uMRcwFQYDVQQKEw5NZXJrU21vb3Rod2FsbDEZMBcG
+A1UECxMQTXlNZXJrU21vb3Rod2FsbDEdMBsGA1UEAxMUTWVya1Ntb290aHdhbGxQ
+dWJsaWMxEDAOBgNVBCkTB0Vhc3lSU0ExJjAkBgkqhkiG9w0BCQEWF3NhcmlmbHVj
+YS5kZXZAZ21haWwuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+rr/IiRX6JNDwUfX4eFtd6+olxedRH/k2ZODZQE60AcY5DhWxcMzLu5zViwH2IE8s
+wg5nNPvgWyVWXy3e5ks9HsuC8cQ1XdF5iYV4+893tQSk0v9mStddvwzxoe0kF+6w
+1u9x9rkFmO0uho4C5493CvQxI64wUnRe2WPSzu6fbvh3xz1cZABYm7GOFvg86/31
+VwZzVLUdSPEETXPJ4AtrJX8zCKq11ciaHVn++WPY7MvtJF9RAWf1Pcu8A+ra+PXZ
+nxkzW7FZIKfGa6TQ5MHOY/1cyxbTXI/Ew26YxTweBx8PxFkZTOTucJ1CBsd/o5Ah
+CobSHmUgVJWWuuHz15LN9wIDAQABo4IBoDCCAZwwCQYDVR0TBAIwADAtBglghkgB
+hvhCAQ0EIBYeRWFzeS1SU0EgR2VuZXJhdGVkIENlcnRpZmljYXRlMB0GA1UdDgQW
+BBQCJ6emUpbqYZoL0JDxE+OuVZv/lDCB/QYDVR0jBIH1MIHygBQua3oE971lvfAu
+VSr1KS8RubmMBqGBw6SBwDCBvTELMAkGA1UEBhMCR0IxEDAOBgNVBAgTB0VuZ2xh
+bmQxDzANBgNVBAcTBkxvbmRvbjEXMBUGA1UEChMOTWVya1Ntb290aHdhbGwxGTAX
+BgNVBAsTEE15TWVya1Ntb290aHdhbGwxHTAbBgNVBAMTFE1lcmtTbW9vdGh3YWxs
+VWJ1bnR1MRAwDgYDVQQpEwdFYXN5UlNBMSYwJAYJKoZIhvcNAQkBFhdzYXJpZmx1
+Y2EuZGV2QGdtYWlsLmNvbYIUe3gerZg12fGLjBcaryQYNqC4mXwwEwYDVR0lBAww
+CgYIKwYBBQUHAwIwCwYDVR0PBAQDAgeAMB8GA1UdEQQYMBaCFE1lcmtTbW9vdGh3
+YWxsUHVibGljMA0GCSqGSIb3DQEBCwUAA4IBAQA/FRdBofFWtgWxPvSyd2nFx2IX
+J+JC9jAvA98c5nAU5isZYHMD7eP+d5vfrm5stz+j6IQwgHe+Ao+NvFfofoLDHQaQ
+ml510U3zjDaCxOWOwTYJZTH50sSKkQwHT5tGDln0RGmGIW9v1YxKpMNoI65YICCc
+sFA6t5BU9osJ5j79vhEo2skMLYnIK+/3G0Mk9/h4RRj+MRmQLA04RWHVrPfh/+rv
+bu1OGGeqaewtVEoSAoVuomc4kIKq0HtoA2yZ8LtiVoXo2XaODZFEAeG6MXsVM7Q7
+jhJpNJGk5lM1tWUui4nsQ2AwFeBITyY6TKf9ppdHWJtzo+BIEtoeFmDiFBlT
+-----END CERTIFICATE-----

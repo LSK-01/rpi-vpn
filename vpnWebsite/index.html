@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="design.css" media="screen" />
+  </head>
+
+  <body>
+    <h2>Welcome</h2>
+    <p>Here you can download and use the only VPN which will work on school wifi, which will let you use the wifi with complete access to all sites and apps, (things like instagram and sending whatsapp media are blocked), and all your data will also be encrypted so the school cannot snoop on you (there has been a history of students getting called in for doing stupid shit on the wifi).</p>
+    <h2>Get Started</h2>
+    <h3>Download OpenVPN Connect from the appstore (VPN works on both Android and IOS)</h3>
+    <h3>Send an email to sarifluca.dev@gmail.com with the subject 'vpn' and you'll get a auto-response back with the required VPN file. <a href='mailto:sarifluca.dev@gmail.com?subject=vpn'>Tap here for the template</a></h3>
+    <p>PS - Don't be a dummy - refrain from using your school email to send and recieve the file.</p>
+    <h3>Follow the email you should get back in a couple seconds.</h3>
+    <h3>Done! Tap the switch icon on the left and you'll connect. Tap again to disconnect. You'll have a key icon or a vpn icon in your status bar whenever you are connected. You can leave now. Happy browsing.</h3>
+    <h2>Extra BS</h2>
+      
+      <ul>
+          <li>Basically I'm broke and I'm hosting this VPN for free since other VPNs on the appstore are blocked by the school, so idk which wasteman would but if your rich or something please donate below thank you</li>
+      
+          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick" />
+          <input type="hidden" name="hosted_button_id" value="ZC4V8LAK4DZQ4" />
+          <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" style:"padding-left: 20px ; width: 1000px; height: 500px;"/>
+          <img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1" />
+          </form>
+        <li>No other VPNs on the appstore work as far as I know due to the fact they all use the same protocol which is blocked by the school. However on the google playstore you can try using Ultrasurf as an alternative but be wary of where your data is being routed. (Free VPNs often log and sell your browsing data onto advertisers when it gets routed by their servers).</li>
+        <li>If you want to use this on a laptop cus ur one of them ones who can't write properly you can get <a href="https://tunnelblick.net/">tunnelblick</a> for macos. Get the OVPN file by sending an email as above, download it, go to your downloads, right click on it and select open in tunnelblick.</li>
+        <li>This VPN will only be on during school hours. If you really need a VPN outside of this time you can use any of the ones on the appstore</li>
+      </ul>
+      <h2>Real nerd hours</h2>
+      <ul>
+          <li>What's with the name? Smoothwall is a linux distro used by schools to easily block certain ports and restrict access to certain sites and apps. Kings also uses this firewall method.</li>
+          <li>This VPN runs on TCP port 443 (also used by HTTPS) which can be used by VPNs since its SSL encrypted. Most/all VPNs on the appstore use UDP ports ~1195-7. UDP is usually faster (although less consistent), but the reason this VPN uses 443 is because the school blocks the aforementioned UDP ports, which is why most other VPNs won't work on the school wifi. Why doesn't school also block 443? Well as mentioned this is the port through which all HTTPS requests are sent through so they need it open. Those other UDP ports are basically reserved for VPNs so the school has no incentive to keep them open.</li>
+      </ul>
+   </body>
+</html>
